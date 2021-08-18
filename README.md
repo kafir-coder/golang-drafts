@@ -1,2 +1,2 @@
 # golang-drafts
-A simple repository containing someone golang awesome codes
+A simple repository containing trivial golang awesome codes
