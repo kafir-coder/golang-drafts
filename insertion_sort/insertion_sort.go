@@ -1,5 +1,5 @@
-package main
-func insertion_sort(list []int) []int {
+package insertion_sort
+func Insertion_sort(list []int) []int {
 	for i, list_item := range list {
 		if i == 0 {
 			continue
